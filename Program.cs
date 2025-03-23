@@ -67,7 +67,7 @@ class Program
             // Pengujian batas maksimal play count dengan perulangan untuk menguji debug handling
             for (int i = 0; i < 5; i++)
             {
-                video.IncreasePlayCount(20000000);//akan terjadi semacam alarm/pesan pemberitahuan dari debug jika melebihi batas dari 10.000.000
+                video.IncreasePlayCount(10000000);//akan terjadi semacam alarm/pesan pemberitahuan dari debug jika melebihi batas dari 10.000.000
             }
 
             video.PrintVideoDetails();
