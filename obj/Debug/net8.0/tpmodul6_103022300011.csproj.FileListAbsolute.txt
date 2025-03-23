@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\bin\Debug\net8.0\tpmodul6_103022300011.exe
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\bin\Debug\net8.0\tpmodul6_103022300011.deps.json
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\bin\Debug\net8.0\tpmodul6_103022300011.runtimeconfig.json
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\bin\Debug\net8.0\tpmodul6_103022300011.dll
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\bin\Debug\net8.0\tpmodul6_103022300011.pdb
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\tpmodul6_103022300011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\tpmodul6_103022300011.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\tpmodul6_103022300011.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\tpmodul6_103022300011.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\tpmodul6_103022300011.sourcelink.json
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\tpmodul6_103022300011.dll
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\refint\tpmodul6_103022300011.dll
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\tpmodul6_103022300011.pdb
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\tpmodul6_103022300011.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\KPL\tpmodul6_103022300011\obj\Debug\net8.0\ref\tpmodul6_103022300011.dll
